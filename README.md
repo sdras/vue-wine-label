@@ -5,7 +5,7 @@ The live demo can be seen at [http://codepen.io/sdras/pen/BpjQzE/](http://codepe
 
 Playing around with dynamic SVGs and SVG text.
 
-##Usage
+## Usage
 This was built with [vue-cli, webpack config](http://vuejs-templates.github.io/webpack/). This uses [vue-loader](http://vuejs.github.io/vue-loader). If you'd like to view it locally, run `npm install` or `yarn install` and `npm run dev` for dev build. 
 
 ### serve with hot reload at localhost:8080
